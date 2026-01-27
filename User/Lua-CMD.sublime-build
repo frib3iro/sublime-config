@@ -1,0 +1,6 @@
+{
+    "shell_cmd": "start \"\" /wait cmd /V:ON /c \"lua \"$file\" & set CODE=!errorlevel! & echo. & echo (program exited with code: !CODE!) & echo. & pause\"",
+    "working_dir": "$file_path",
+    "selector": "source.lua",
+    "file_regex": "^(?:lua:)?[ \t]*(...*?):([0-9]*):?([0-9]*)"
+}

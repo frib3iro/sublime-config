@@ -1,0 +1,63 @@
+{
+    // Pacotes que serão ignorados pelo Sublime (desativados)
+    "ignored_packages": [
+        "Vintage",
+    ],
+
+    // Tema visual da interface (barra lateral, abas, etc.)
+    "theme": "One.sublime-theme",
+
+    // Ativa elementos temáticos
+    "themed_title_bar": true,
+    "themed_menu": true,
+
+    // Ativa indexação de arquivos para busca rápida
+    "index_files": true,
+
+    // Esquema de cores do código (fundo e sintaxe)
+    "color_scheme": "One Dark.sublime-color-scheme",
+
+    // Fonte usada no editor
+    "font_face": "Cascadia Mono SemiLight",
+    "font_size": 11,
+
+    // Remoção de espaços finais ao salvar (exceto onde o caret está)
+    "trim_trailing_white_space_on_save": "not_on_caret",
+    "format_on_save": true,
+    "format_on_save_extensions": ["json"],
+
+    // Dicionário
+    "dictionary": "Packages/LanguagePortuguese/Portuguese (Brazilian).dic",
+
+    // Guia visual e quebra de linha
+    "rulers": [78],
+    "word_wrap": true,
+    "wrap_width": 78,
+
+    // Configurações visuais do editor
+    "always_show_minimap_viewport": true,
+    "animation_enabled": true,
+    "caret_extra_bottom": 1,
+    "caret_extra_top": 2,
+    "caret_extra_width": 1,
+    "caret_style": "smooth",
+    "enable_tab_scrolling": false,
+    "highlight_line": true,
+    "highlight_modified_tabs": true,
+    "indent_guide_options": [],
+    "line_padding_bottom": 1,
+    "line_padding_top": 2,
+    "margin": 0,
+    "highlight_gutter": false,
+    "show_scroll_tabs_buttons": false,
+    "show_tabs_dropdown_button": false,
+    "show_new_tab_button": false,
+    "highlight_scope": false,
+    "match_brackets": false,
+    "match_brackets_content": false,
+    "draw_indent_guides": false,
+    "draw_white_space": "none",
+    "ensure_newline_at_eof_on_save": true,
+    "scroll_past_end": false,
+    "show_tab_close_buttons": true,
+}

@@ -1,0 +1,14 @@
+{
+    "bracket_styles": {
+        "default": {
+            "icon": "dot",
+            "style": "none",
+            "color": "region.greenish"   // usa cor do tema (exemplo)
+        },
+        "unmatched": {
+            "icon": "dot",
+            "style": "none",
+            "color": "region.redish"
+        }
+    }
+}

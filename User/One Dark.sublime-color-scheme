@@ -1,0 +1,22 @@
+// Documentation at https://www.sublimetext.com/docs/color_schemes.html
+{
+  "variables": {},
+  "globals": {
+    "background": "#1B1D23",
+    "foreground": "#d7dae0",
+    "gutter_foreground": "#797C82",
+    "gutter_foreground_highlight": "#D19A66"
+  },
+  
+  "rules": [
+    {
+        "scope": "comment, punctuation.definition.comment",
+        "foreground": "#5C6370",
+        "font_style": "italic"
+    },
+    {
+        "scope": "keyword.operator",
+        "foreground": "#ABB2BF"
+    }
+  ]
+}
