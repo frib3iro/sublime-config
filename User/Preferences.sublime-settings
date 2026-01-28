@@ -1,7 +1,7 @@
 {
     // Pacotes que serão ignorados pelo Sublime (desativados)
     "ignored_packages": [
-        "Vintage"
+        "Vintage",
     ],
 
     // Tema visual da interface (barra lateral, abas, etc.)

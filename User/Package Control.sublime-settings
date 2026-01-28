@@ -9,6 +9,7 @@
 		"BracketHighlighter",
 		"LSP",
 		"LSP-lua",
+		"LuaFormat",
 		"Package Control",
 		"Pretty JSON",
 		"SideBarEnhancements",
