@@ -1,5 +1,10 @@
 {
     "shell_cmd": "start \"\" \"C:/Program Files/Love/love.exe\" \"$file_path\"",
-    "working_dir": "$file_path",
-    "selector": "source.lua"
+    "selector": "source.lua",
+    "variants": [
+        {
+            "name": "Run LÖVE (folder)",
+            "shell_cmd": "start \"\" \"C:/Program Files/Love/love.exe\" \"$file_path\""
+        }
+    ]
 }

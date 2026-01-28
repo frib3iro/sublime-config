@@ -1,4 +1,3 @@
-// Documentation at https://www.sublimetext.com/docs/color_schemes.html
 {
   "variables": {},
   "globals": {
@@ -16,7 +15,17 @@
     },
     {
         "scope": "keyword.operator",
-        "foreground": "#ABB2BF"
+        "foreground": "#ABB2BF",
+        // "font_style": "bold"
+    },
+
+    {
+      "scope": "punctuation.accessor",
+      // "foreground": "#ABB2BF",
+      //"foreground": "#56B6C2",
+      "foreground": "#C678DD",
+      // "font_style": "bold"
     }
+
   ]
 }
